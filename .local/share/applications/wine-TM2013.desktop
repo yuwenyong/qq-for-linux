@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Network;InstantMessaging;
+Exec=tm2013.sh
+Icon=TM
+Name=Wine TM 2013
+NoDisplay=false
+StartupNotify=true
+Terminal=0
+Type=Application

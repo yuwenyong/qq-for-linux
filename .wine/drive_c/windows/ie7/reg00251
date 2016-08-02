@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{1CFF0050-6FDD-11D0-9328-00A0C90DCAA9}
+
+#arch=win32
+
+[] 1328580335
+@="IActiveScriptParseProcedureOld32"
+
+[NumMethods] 1328580335
+@="4"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

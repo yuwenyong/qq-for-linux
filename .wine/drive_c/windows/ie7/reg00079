@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{429AF92C-A51F-11D2-861E-00C04FA35C89}
+
+#arch=win32
+
+[] 1328580337
+@="Trident API"
+
+[InprocServer32] 1328580337
+@="C:\\windows\\system32\\mshtml.dll"
+"ThreadingModel"="Apartment"

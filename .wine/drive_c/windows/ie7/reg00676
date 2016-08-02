@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{56FDF342-FD6D-11D0-958A-006097C9A090}
+
+#arch=win32
+
+[] 1328580335
+@="ITaskbarList"
+
+[NumMethods] 1328580335
+@="8"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

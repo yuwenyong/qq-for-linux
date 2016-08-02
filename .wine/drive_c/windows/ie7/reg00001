@@ -1,0 +1,7 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\.xbm
+
+#arch=win32
+
+[] 1328580338
+"Content Type"="image/x-xbitmap"

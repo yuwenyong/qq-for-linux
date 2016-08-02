@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{AFA0DC11-C313-11D0-831A-00C04FD5AE38}
+
+#arch=win32
+
+[] 1328580335
+@="IUrlHistoryStg2"
+
+[NumMethods] 1328580335
+@="10"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

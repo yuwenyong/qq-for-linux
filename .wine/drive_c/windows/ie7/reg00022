@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{18845040-0FA5-11D1-BA19-00C04FD912D0}
+
+#arch=win32
+
+[] 1328580337
+@="Microsoft HTML Load Options"
+
+[InprocServer32] 1328580337
+@="C:\\windows\\system32\\mshtml.dll"
+"ThreadingModel"="Apartment"

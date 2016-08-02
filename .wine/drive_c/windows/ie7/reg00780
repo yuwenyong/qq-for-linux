@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{B722BCC7-4E68-101B-A2BC-00AA00404770}
+
+#arch=win32
+
+[] 1328580335
+@="IOleDocumentSite"
+
+[NumMethods] 1328580335
+@="4"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

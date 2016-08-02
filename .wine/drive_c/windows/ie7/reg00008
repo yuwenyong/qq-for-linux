@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{05F6FE1A-ECEF-11D0-AAE7-00C04FC9B304}
+
+#arch=win32
+
+[] 1328580337
+@="IntDitherer Class"
+
+[InprocServer32] 1328580337
+@="C:\\windows\\system32\\mshtml.dll"
+"ThreadingModel"="Apartment"

@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringBundle version="1.0">
+	<String id="FACE_SHORTCUT_CHINESE0">
+		/微笑
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE1">
+		/撇嘴
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE2">
+		/色
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE3">
+		/发呆
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE4">
+		/得意
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE5">
+		/流泪
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE6">
+		/害羞
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE7">
+		/闭嘴
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE8">
+		/睡
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE9">
+		/大哭
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE10">
+		/尴尬
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE11">
+		/发怒
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE12">
+		/调皮
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE13">
+		/呲牙
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE14">
+		/惊讶
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE15">
+		/难过
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE16">
+		/酷
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE17">
+		/冷汗
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE18">
+		/抓狂
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE19">
+		/吐
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE20">
+		/偷笑
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE21">
+		/可爱
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE22">
+		/白眼
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE23">
+		/傲慢
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE24">
+		/饥饿
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE25">
+		/困
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE26">
+		/惊恐
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE27">
+		/流汗
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE28">
+		/憨笑
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE29">
+		/大兵
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE30">
+		/奋斗
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE31">
+		/咒骂
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE32">
+		/疑问
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE33">
+		/嘘...
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE34">
+		/晕
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE35">
+		/折磨
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE36">
+		/衰
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE37">
+		/骷髅
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE38">
+		/敲打
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE39">
+		/再见
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE40">
+		/擦汗
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE41">
+		/抠鼻
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE42">
+		/鼓掌
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE43">
+		/糗大了
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE44">
+		/坏笑
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE45">
+		/左哼哼
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE46">
+		/右哼哼
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE47">
+		/哈欠
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE48">
+		/鄙视
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE49">
+		/委屈
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE50">
+		/快哭了
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE51">
+		/阴险
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE52">
+		/亲亲
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE53">
+		/吓
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE54">
+		/可怜
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE55">
+		/菜刀
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE56">
+		/西瓜
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE57">
+		/啤酒
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE58">
+		/篮球
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE59">
+		/乒乓
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE60">
+		/咖啡
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE61">
+		/饭
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE62">
+		/猪头
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE63">
+		/玫瑰
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE64">
+		/凋谢
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE65">
+		/示爱
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE66">
+		/爱心
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE67">
+		/心碎
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE68">
+		/蛋糕
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE69">
+		/闪电
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE70">
+		/炸弹
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE71">
+		/刀
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE72">
+		/足球
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE73">
+		/瓢虫
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE74">
+		/便便
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE75">
+		/月亮
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE76">
+		/太阳
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE77">
+		/礼物
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE78">
+		/拥抱
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE79">
+		/强
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE80">
+		/弱
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE81">
+		/握手
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE82">
+		/胜利
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE83">
+		/抱拳
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE84">
+		/勾引
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE85">
+		/拳头
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE86">
+		/差劲
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE87">
+		/爱你
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE88">
+		/NO
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE89">
+		/OK
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE90">
+		/爱情
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE91">
+		/飞吻
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE92">
+		/跳跳
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE93">
+		/发抖
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE94">
+		/怄火
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE95">
+		/转圈
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE96">
+		/磕头
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE97">
+		/回头
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE98">
+		/跳绳
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE99">
+		/挥手
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE100">
+		/激动
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE101">
+		/街舞
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE102">
+		/献吻
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE103">
+		/左太极
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE104">
+		/右太极
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE105">
+		/非典
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE106">
+		/闪人
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE107">
+		/找
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE108">
+		/美眉
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE109">
+		/猫咪
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE110">
+		/小狗
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE111">
+		/钱
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE112">
+		/灯泡
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE113">
+		/酒杯
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE114">
+		/音乐
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE115">
+		/药丸
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE116">
+		/吻
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE117">
+		/会议
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE118">
+		/电话
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE119">
+		/时间
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE120">
+		/邮件
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE121">
+		/电视
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE122">
+		/多多
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE123">
+		/美女
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE124">
+		/汉良
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE125">
+		/毛毛
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE126">
+		/Q仔
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE127">
+		/白酒
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE128">
+		/汽水
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE129">
+		/下雨
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE130">
+		/多云
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE131">
+		/雪人
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE132">
+		/星星
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE133">
+		/女
+	</String>
+	<String id="FACE_SHORTCUT_CHINESE134">
+		/男
+	</String>
+  <!--第二套系统表情中文快捷键-->
+  <String id="FACE2_SHORTCUT_CHINESE0">
+    /财神
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE1">
+    /招财猫
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE2">
+    /娃娃
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE3">
+    /魔鬼
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE4">
+    /天使
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE5">
+    /唐僧
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE6">
+    /悟空
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE7">
+    /八戒
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE8">
+    /蝴蝶结
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE9">
+    /靴子
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE10">
+    /高跟鞋
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE11">
+    /口红
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE12">
+    /戒指
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE13">
+    /钻石
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE14">
+    /熊猫
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE15">
+    /猫
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE16">
+    /娃娃头
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE17">
+    /汽车
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE18">
+    /飞机
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE19">
+    /香蕉
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE20">
+    /黄瓜
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE21">
+    /胡萝卜
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE22">
+    /鸭梨
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE23">
+    /苹果
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE24">
+    /蜡烛
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE25">
+    /红领巾
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE26">
+    /双喜
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE27">
+    /象棋
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE28">
+    /螃蟹
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE29">
+    /醋
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE30">
+    /面条
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE31">
+    /鸡腿
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE32">
+    /棒棒糖
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE33">
+    /皇冠
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE34">
+    /菊花
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE35">
+    /乌龟
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE36">
+    /照相机
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE37">
+    /福袋
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE38">
+    /闹钟
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE39">
+    /灯泡
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE40">
+    /浮云
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE41">
+    /下雨
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE42">
+    /吊瓶
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE43">
+    /药丸
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE44">
+    /UFO
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE45">
+    /沙发
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE46">
+    /手柄
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE47">
+    /铅笔
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE48">
+    /手枪
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE49">
+    /手机
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE50">
+    /公文包
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE51">
+    /麦克风
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE52">
+    /电视
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE53">
+    /卫生纸
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE54">
+    /板砖
+  </String>
+  <String id="FACE2_SHORTCUT_CHINESE55">
+    /雨伞
+  </String>
+
+  <!--第二套系统表情中文Tips-->
+  <String id="FACE2_TOOL_TIP0">
+    财神
+  </String>
+  <String id="FACE2_TOOL_TIP1">
+    招财猫
+  </String>
+  <String id="FACE2_TOOL_TIP2">
+    娃娃
+  </String>
+  <String id="FACE2_TOOL_TIP3">
+    魔鬼
+  </String>
+  <String id="FACE2_TOOL_TIP4">
+    天使
+  </String>
+  <String id="FACE2_TOOL_TIP5">
+    唐僧
+  </String>
+  <String id="FACE2_TOOL_TIP6">
+    悟空
+  </String>
+  <String id="FACE2_TOOL_TIP7">
+    八戒
+  </String>
+  <String id="FACE2_TOOL_TIP8">
+    蝴蝶结
+  </String>
+  <String id="FACE2_TOOL_TIP9">
+    靴子
+  </String>
+  <String id="FACE2_TOOL_TIP10">
+    高跟鞋
+  </String>
+  <String id="FACE2_TOOL_TIP11">
+    口红
+  </String>
+  <String id="FACE2_TOOL_TIP12">
+    戒指
+  </String>
+  <String id="FACE2_TOOL_TIP13">
+    钻石
+  </String>
+  <String id="FACE2_TOOL_TIP14">
+    熊猫
+  </String>
+  <String id="FACE2_TOOL_TIP15">
+    猫
+  </String>
+  <String id="FACE2_TOOL_TIP16">
+    娃娃头
+  </String>
+  <String id="FACE2_TOOL_TIP17">
+    汽车
+  </String>
+  <String id="FACE2_TOOL_TIP18">
+    飞机
+  </String>
+  <String id="FACE2_TOOL_TIP19">
+    香蕉
+  </String>
+  <String id="FACE2_TOOL_TIP20">
+    黄瓜
+  </String>
+  <String id="FACE2_TOOL_TIP21">
+    胡萝卜
+  </String>
+  <String id="FACE2_TOOL_TIP22">
+    鸭梨
+  </String>
+  <String id="FACE2_TOOL_TIP23">
+    苹果
+  </String>
+  <String id="FACE2_TOOL_TIP24">
+    蜡烛
+  </String>
+  <String id="FACE2_TOOL_TIP25">
+    红领巾
+  </String>
+  <String id="FACE2_TOOL_TIP26">
+    双喜
+  </String>
+  <String id="FACE2_TOOL_TIP27">
+    象棋
+  </String>
+  <String id="FACE2_TOOL_TIP28">
+    螃蟹
+  </String>
+  <String id="FACE2_TOOL_TIP29">
+    醋
+  </String>
+  <String id="FACE2_TOOL_TIP30">
+    面条
+  </String>
+  <String id="FACE2_TOOL_TIP31">
+    鸡腿
+  </String>
+  <String id="FACE2_TOOL_TIP32">
+    棒棒糖
+  </String>
+  <String id="FACE2_TOOL_TIP33">
+    皇冠
+  </String>
+  <String id="FACE2_TOOL_TIP34">
+    菊花
+  </String>
+  <String id="FACE2_TOOL_TIP35">
+    乌龟
+  </String>
+  <String id="FACE2_TOOL_TIP36">
+    照相机
+  </String>
+  <String id="FACE2_TOOL_TIP37">
+    福袋
+  </String>
+  <String id="FACE2_TOOL_TIP38">
+    闹钟
+  </String>
+  <String id="FACE2_TOOL_TIP39">
+    灯泡
+  </String>
+  <String id="FACE2_TOOL_TIP40">
+    浮云
+  </String>
+  <String id="FACE2_TOOL_TIP41">
+    下雨
+  </String>
+  <String id="FACE2_TOOL_TIP42">
+    吊瓶
+  </String>
+  <String id="FACE2_TOOL_TIP43">
+    药丸
+  </String>
+  <String id="FACE2_TOOL_TIP44">
+    UFO
+  </String>
+  <String id="FACE2_TOOL_TIP45">
+    沙发
+  </String>
+  <String id="FACE2_TOOL_TIP46">
+    手柄
+  </String>
+  <String id="FACE2_TOOL_TIP47">
+    铅笔
+  </String>
+  <String id="FACE2_TOOL_TIP48">
+    手枪
+  </String>
+  <String id="FACE2_TOOL_TIP49">
+    手机
+  </String>
+  <String id="FACE2_TOOL_TIP50">
+    公文包
+  </String>
+  <String id="FACE2_TOOL_TIP51">
+    麦克风
+  </String>
+  <String id="FACE2_TOOL_TIP52">
+    电视
+  </String>
+  <String id="FACE2_TOOL_TIP53">
+    卫生纸
+  </String>
+  <String id="FACE2_TOOL_TIP54">
+    板砖
+  </String>
+  <String id="FACE2_TOOL_TIP55">
+    雨伞
+  </String>
+</StringBundle>

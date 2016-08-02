@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{3C374A40-BAE4-11CF-BF7D-00AA006946EE}
+
+#arch=win32
+
+[] 1328580336
+@="Microsoft Url History Service"
+
+[InprocServer32] 1328580336
+@="C:\\windows\\system32\\ieframe.dll"
+"ThreadingModel"="Apartment"

@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{4F9F9FCB-E0F4-48EB-B7AB-FA2EA9365CB4}
+
+#arch=win32
+
+[] 1328580336
+@="IHttpNegotiate2"
+
+[NumMethods] 1328580336
+@="6"
+
+[ProxyStubClsid32] 1328580336
+@="{79EAC9F1-BAF9-11CE-8C82-00AA004BA90B}"

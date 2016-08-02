@@ -1,0 +1,7 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\MIME\\Database\\Content Type\\image/x-xbitmap
+
+#arch=win32
+
+[] 1328580338
+"CLSID"="{25336920-03F9-11CF-8FD0-00AA00686F13}"

@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{3CD141F4-3C6A-11D2-BCAA-00C04FD929DB}
+
+#arch=win32
+
+[] 1328580335
+@="IAutoCompleteDropDown"
+
+[NumMethods] 1328580335
+@="5"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

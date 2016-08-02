@@ -1,0 +1,9 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Microsoft\\Internet Explorer\\AboutURLs
+
+#arch=win32
+
+[] 1328580338
+"blank"="res://mshtml.dll/blank.htm"
+"mozilla"="res://mshtml.dll/about.moz"
+"PostNotCached"="res://mshtml.dll/repost.htm"

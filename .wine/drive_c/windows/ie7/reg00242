@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{0E700BE1-9DB6-11D1-A1CE-00C04FD75D13}
+
+#arch=win32
+
+[] 1328580335
+@="IEnumExtraSearch"
+
+[NumMethods] 1328580335
+@="7"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

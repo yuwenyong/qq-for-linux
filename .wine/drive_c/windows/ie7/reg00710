@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{79EAC9C3-BAF9-11CE-8C82-00AA004BA90B}
+
+#arch=win32
+
+[] 1328580335
+@="IHlink"
+
+[NumMethods] 1328580335
+@="17"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

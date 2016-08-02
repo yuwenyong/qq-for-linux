@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StringBundle version="1.0">
+	<String id="Finger_GroupConditionPrompt">
+		按条件查找的结果将跳转至网页显示
+	</String>
+	<String id="Finger_FingerResultForYou">
+		以下是为您查找到的用户:
+	</String>
+	<String id="Finger_NotValidateGroup">
+		您输入的群号码有误，请重新输入
+	</String>
+	<String id="Finger_TimeOut">
+		查找超时。
+	</String>
+	<String id="Finger_UnkownError">
+		未知错误。
+	</String>
+	<String id="Finger_InputAccount">
+		请输入对方的号码、辅助帐号或昵称
+	</String>
+	<String id="Finger_InputNick">
+		请输入对方昵称
+	</String>
+	<String id="Finger_GroupFingerResultForYou">
+		以下是为您查找到的群。
+	</String>
+	<String id="Finger_CurrentOnlineNum">
+		当前在线人数:$NUM$
+	</String>
+	<String id="Finger_CurrentOnlineNum_Unkown">
+		当前在线人数:未知
+	</String>
+	<String id="Finger_CurrentPageNum">
+		当前第$NUM$页
+	</String>
+	<String id="Finger_StartChat">
+		发起会话
+	</String>
+	<String id="Finger_Account">
+		帐号
+	</String>
+	<String id="Finger_Friend">
+		找朋友
+	</String>
+	<String id="Finger_FriendTip">
+		添加QQ好友
+	</String>
+  <String id="Finger_Group">
+    找群
+  </String>
+  <String id="Finger_GroupTip">
+    添加QQ群
+  </String>
+  <String id="Finger_Corpor">
+		找企业
+	</String>
+	<String id="Finger_CorporTip">
+		添加企业好友
+	</String>
+	<String id="Finger_InterestTome">
+		向我打招呼的人
+	</String>
+	<String id="Finger_MayKnow">
+		可能认识的人
+	</String>
+	<String id="Finger_MayInterest">
+		有缘人
+	</String>
+	<String id="Finger_LBS">
+	    查看附近的人
+	</String>
+	<String id="Finger_SearchQQTip">
+		请输入号码或辅助号码
+	</String>
+	<String id="Finger_SearchResult">
+		共搜索到$COUNT$个结果
+	</String>
+	<String id="Finger_Setting">
+		查找联系人
+	</String>
+	<String id="Finger_Setting_Basic">
+		基本设置
+	</String>
+	<String id="Finger_Setting_RecommandMe">
+		不允许将我推荐给可能认识的人，同时也不向我推荐可能认识的人
+	</String>
+	<String id="Finger_Setting_RecvGreeting">
+		接收陌生人向我发送的“打招呼”消息
+	</String>
+	<String id="Finger_Setting_RemindMe">
+		有新消息时提醒我
+	</String>
+	<String id="Finger_Setting_NotRemindMe">
+		有新消息时，仅显示未读数字，不提醒我
+	</String>
+	<String id="Finger_Setting_Details">
+		当有对您感兴趣的朋友向您打招呼时，您就可以在“查找联系人”窗口查看并与他们互动
+	</String>
+	<String id="Finger_SendGreeting_Title">
+		打招呼
+	</String>
+	<String id="Finger_SendGreeting_Prompt">
+		写点什么打个招呼，按Enter键发送
+	</String>
+	<String id="Finger_SendGreeting_Send">
+		发送
+	</String>
+	<String id="Finger_SendGreeting_Times_Female">
+		您还可以和她招呼的次数
+	</String>
+	<String id="Finger_SendGreeting_Times_Male">
+		您还可以和他招呼的次数
+	</String>
+	<String id="Finger_SendGreeting_Private">
+		允许对方7日内访问我的QQ空间
+	</String>
+	<String id="Finger_SendGreeting_PrivateDetails">
+		加为好友前，对方可在7日内临时访问我的QQ空间。
+	</String>
+	<String id="Finger_ReplyGreeting_Title">
+		回应打招呼
+	</String>
+	<String id="Finger_ReplyGreeting_Private">
+		允许对方7日内访问我的QQ空间
+	</String>
+	<String id="Finger_ReplyGreeting_PrivateDetails">
+		加为好友前，对方可在7日内临时访问我的QQ空间。
+	</String>
+	<String id="Finger_ReplyGreeting_Times_Female">
+		您还可以和她打招呼的次数
+	</String>
+	<String id="Finger_ReplyGreeting_Times_Male">
+		您还可以和他打招呼的次数
+	</String>
+	<String id="Finger_ReplyGreeting_Prompt">
+		回应一下，按Enter键发送
+	</String>
+	<String id="Finger_Block_Message">
+		您确定不再接收来自对方的打招呼吗？同时他也会从“向你打招呼的人”列表中删除。
+	</String>
+	<String id="Finger_CustomHead_Message">
+		自定义头像有利于别人更关注你，打招呼前，先给自己设置一个独特的自定义头像吧！
+	</String>
+	<String id="Finger_Mainpanel_HasGreeting_Tip">
+		$NUM$个向你打招呼的人
+	</String>
+	<String id="Finger_Mainpanel_NoGreeting_Tip">
+		查找联系人
+	</String>
+	<String id="Finger_MsgBox_PromptTitle">
+		提示
+	</String>
+	<String id="Finger_ReplyGreeting_Send">
+		发送
+	</String>
+	<String id="Finger_ReplyGreeting_Send_Timeout">
+		连接超时，请检查网络
+	</String>
+	<String id="Finger_ReplyGreeting_Send_Sensitive">
+		消息内容含敏感词
+	</String>
+	<String id="Finger_ReplyGreeting_Send_Fail">
+		   发送失败
+	</String>
+	<String id="Finger_ReplyGreeting_Send_BodyFull">
+		 今天打招呼已达到上限,明天再来吧.
+	</String>
+	<String id="Finger_ReplyGreeting_Send_Deny">
+		对方不接受打招呼消息
+	</String>
+	<String id="Finger_ReplyGreeting_FullTimesPrompt_Male">
+		“聊得不够尽兴?快加他为好友吧!”
+	</String>
+	<String id="Finger_ReplyGreeting_FullTimesPrompt_Female">
+		“聊得不够尽兴?快加她为好友吧!”
+	</String>
+	<String id="Finger_ReplyGreeting_Default_Reason">
+		向你挥手打了个招呼：
+	</String>
+  <String id="Finger_UnRead_Tips_Wording">
+    有$UNREADNUM$人在您离线时，向你挥手打了个招呼，点击此处查看详细信息
+  </String>
+	<String id="Finger_IMCard_Greet_OfflinePrompt">
+		您当前处于离线状态，请上线后再发送打招呼消息。
+	</String>
+	<String id="Finger_IMCard_Greet_BlockPrompt">
+		您已关闭了打招呼功能，导系统设置，查找联系人中重新开启吧！
+	</String>
+	<String id="Finger_GreetingTips_Title">
+		打招呼
+	</String>
+	<String id="Finger_GreetingTips_Setting">
+		提醒设置
+	</String>
+	<String id="Finger_GreetingTips_Reply">
+		回应
+	</String>
+	<String id="Finger_GreetingTips_View">
+		查看
+	</String>
+	<String id="Finger_IM_Time_Exactly">
+		刚刚
+	</String>
+	<String id="Finger_IM_Time_Minutes">
+		$MIN$分
+	</String>
+	<String id="Finger_IM_Time_Hours">
+		$HOUR$小时
+	</String>
+	<String id="Finger_IM_Time_Days">
+		$DAY$天
+	</String>
+	<String id="Finger_IM_Time_Yesterday">
+		昨天
+	</String>
+	<String id="Finger_IM_CurPageNum">
+		   当前第$PAGE$页
+	</String>
+	<String id="Finger_IM_ShieldPrompt">
+		您确定不再接收来自对方的打招呼吗？同时他也会从“向你打招呼的人”列表中删除
+	</String>
+	<String id="Finger_IM_OfflinePrompt">
+			你的QQ目前已经处于离线状态，请先登录后再查看“可能认识的人”。
+	</String>
+	<String id="Finger_Custom_Head_Prompt">
+			自定义头像有利于让别人更关注你，打招呼前，先给自己设置一个独特的自定义头像吧！
+	</String>
+	<String id="Finger_Finding">
+		正在搜索中...
+	</String>
+	<String id="Finger_NoResult">
+		没有找到符合搜索条件的用户或对方设置了主显账号。
+	</String>
+	<String id="Finger_NoResult_ClassContact">
+		没有找到符合条件的用户，请调整搜索条件后再试试
+	</String>
+	<String id="Finger_NoGroupResult">
+		没有找到符合搜索条件的QQ群。
+	</String>
+        <String id="Finger_UsrNickName">
+		昵称:
+	</String>
+	<String id="Finger_UsrAge">
+		年龄:
+	</String>
+	<String id="Finger_UsrSex">
+		性别:
+	</String>
+	<String id="Finger_UsrConstellation">
+		星座:
+	</String>
+	<String id="Finger_UsrBlood">
+		血型:
+	</String>
+	<String id="Finger_UsrResidencePlace">
+		所在地:
+	</String>
+	<String id="Finger_UsrHomeland">
+		故乡:
+	</String>
+	<String id="Finger_Nickname">
+		昵称
+	</String>
+	<String id="Finger_ComeFrom">
+		来自
+	</String>
+	<String id="Finger_Sex">
+		性别
+	</String>
+	<String id="Finger_Age1">
+		年龄
+	</String>
+	<String id="Finger_GroupName">
+		群组名称
+	</String>
+	<String id="Finger_GroupOwner">
+		群组创建人
+	</String>
+	<String id="Finger_PleaseSelectAContact">
+		请选择一个联系人
+	</String>
+	<String id="Finger_FingerTitle">
+		查找联系人/群/企业
+	</String>
+	<String id="Finger_Finger">
+		查找
+	</String>
+	<String id="Finger_AddBuddy">
+		添加好友
+	</String>
+	<String id="Finger_AddGroup">
+		加入该群
+	</String>
+	<String id="Finger_Fingering">
+		正在查找...
+	</String>
+	<String id="Finger_FingerNoUser">
+		未查找到符合条件的用户
+	</String>
+	<String id="Finger_DisRegiment">
+		不限
+	</String>
+	<String id="Finger_GenderMale">
+		男
+	</String>
+	<String id="Finger_GenderFemale">
+		女
+	</String>
+	<String id="Finger_ZeroToFifteen">
+		16岁以下
+	</String>
+	<String id="Finger_SixteenToTwentyTwo">
+		16-22岁
+	</String>
+	<String id="Finger_TwentyThreeToThirty">
+		23-30岁
+	</String>
+	<String id="Finger_ThirtyOneToForty">
+		31-40岁
+	</String>
+	<String id="Finger_FortyOneToInfinit">
+		40岁以上
+	</String>
+	<String id="Finger_FingerWay">
+		查找方式
+	</String>
+	<String id="Finger_ContactFinger">
+		查找联系人
+	</String>
+	<String id="Finger_ExactFinger">
+		精确查找
+	</String>
+	<String id="Finger_ClassFinger">
+		条件查找
+	</String>
+	<String id="Finger_GroupFinger">
+		查找群
+	</String>
+	<String id="Finger_ExactFingerCondition">
+		精确查找的条件:
+	</String>
+	<String id="Finger_ContactAccount">
+		帐号:
+	</String>
+	<String id="Finger_ContactNick">
+		昵称:
+	</String>
+	<String id="Finger_YourFingerCondition">
+		查找条件
+	</String>
+	<String id="Finger_Online">
+		当前在线
+	</String>
+	<String id="Finger_WithCamera">
+		有摄像头的
+	</String>
+	<String id="Finger_Country">
+		国家:
+	</String>
+	<String id="Finger_Province">
+		省份:
+	</String>
+	<String id="Finger_City">
+		城市:
+	</String>
+	<String id="Finger_Age">
+		年龄:
+	</String>
+	<String id="Finger_Gender">
+		性别:
+	</String>
+	<String id="Finger_Language">
+		语言:
+	</String>
+	<String id="Finger_Condition">
+		查找的条件:
+	</String>
+	<String id="Finger_InputGroupNum">
+		群号码:
+	</String>
+	<String id="Finger_InputGroupNumPrompt">
+		请输入群号码
+	</String>
+	<String id="Finger_GroupClass1">
+		查找范围:
+	</String>
+	<String id="Finger_GroupClass2">
+		二级分类:
+	</String>
+	<String id="Finger_GroupClass3">
+		三级分类:
+	</String>
+	<String id="Finger_GroupFingerKey">
+		查找关键字:
+	</String>
+	<String id="Finger_Key">
+		关键字
+	</String>
+	<String id="Finger_Advance">
+		高级查找
+	</String>
+	<String id="Finger_All">
+		全部
+	</String>
+	<String id="Finger_ViewInfo">
+		查看资料
+	</String>
+	<String id="Finger_LastPage">
+		上页
+	</String>
+	<String id="Finger_NextPage">
+		下页
+	</String>
+	<String id="Finger_LastStep">
+		上一步
+	</String>
+	<String id="Finger_Cancel">
+		取消
+	</String>
+	<String id="Finger_Close">
+		关闭
+	</String>
+	<String id="Finger_ExactAccountError">
+		您输入的帐号有误，请重新输入
+	</String>
+	<String id="Finger_ExactAccoutCantNull">
+		请至少输入一个查询条件
+	</String>
+	<String id="Finger_SecurityReport">
+		举报
+	</String>
+	<String id="Finger_ConnectToServer">
+		你的QQ目前处于离线状态，请先登录再使用“查找”。
+	</String>
+	<String id="Finger_ConnectToServer_Report">
+		你的QQ目前处于离线状态，请先登录再进行举报。
+	</String>
+	<String id="Finger_ConnectToServer_AddFrd">
+		你的QQ目前处于离线状态，请先登录再添加对方为好友。
+	</String>
+	<String id="Finger_ConnectToServer_Title">
+		提示
+	</String>
+	<String id="Finger_ViewInfoTip">
+		查看个人资料
+	</String>
+	<String id="Finger_SayHelloTip">
+		向$SEX$打招呼
+	</String>
+	<String id="Finger_SayHelloTip_Male">
+		向他打招呼
+	</String>
+	<String id="Finger_SayHelloTip_Female">
+		向她打招呼
+	</String>
+	<String id="Finger_TempChatTip">
+		发起临时会话
+	</String>
+	<String id="Finger_AddFriendTip">
+		加为好友
+	</String>
+	<String id="Finger_ShieldTip">
+		不再接收该用户的招呼
+	</String>
+	<String id="Finger_AddFriendSocialTip">
+		加为朋友网好友
+	</String>
+	<String id="Finger_DeleteCommend"> 
+		删除推荐
+	</String>
+	<String id="Finger_GroupViewInfoTip">
+		查看群信息
+	</String>
+	<String id="Finger_GroupAddFriendTip">
+		加入群
+	</String>	
+	<String id="Finger_Refresh">
+		换一批
+	</String>
+	<String id="Finger_Edit_RealSearch">
+		真实姓名取自朋友网
+	</String>
+	<String id="Finger_Static_RealSearch">
+		真实姓名:
+	</String>
+	<String id="Finger_Static_RealName">
+		$name$($school$)
+	</String>
+	<String id="Finger_Static_Age">
+		$age$岁
+	</String>
+	<String id="Finger_Static_Area">
+		$province$ $city$
+	</String>
+	<String id="Finger_TypeinValidName">
+		请输入完整的姓名
+	</String>
+	<String id="Finger_AcceptTempSession">
+		接受临时会话
+	</String>
+	<String id="Finger_ContactEmptyTip">
+		请输入QQ账号或昵称再点击查找
+	</String>
+    <String id="Finger_ClassFinger_ContactEmptyTip">
+		查找的昵称不能为空
+	</String>	
+	<String id="Finger_GroupEmptyTip">
+		请输入群号码后再点击查找
+	</String>	
+	<String id="Finger_GroupClassEmptyTip">
+		请输入关键字或选择范围再点击查找
+	</String>	
+	<String id="Finger_He">
+		他
+	</String>	
+	<String id="Finger_She">
+		她
+	</String>	
+	<String id="Finger_NoInterest_Title">
+  三招教你吸引大家的目光
+  </String>
+	<String id="Finger_PerfectInfo">
+	完善资料
+	</String>
+	<String id="Finger_PerfectInfo_Tip">
+	QQ资料越完整，我们帮你推荐的好友越精确。
+	</String>
+	<String id="Finger_SetLabel">
+	贴标签
+	</String>
+	<String id="Finger_SetLabel_Tip">
+	给自己贴些个性标签，让大家更了解你。
+	</String>
+	<String id="Finger_CustomHead">
+	自定义头像
+	</String>
+	<String id="Finger_CustomHead_Tip">
+	靓丽的头像当然是最吸引人的啦。
+	</String>
+	<String id="Finger_TakeGreet">
+		   打招呼
+	</String>
+	<String id="Finger_TakeGreet_Tip">
+		我们帮你搜索一些可能感兴趣的人，马上去和他们打招呼！
+	</String>
+	<String id="Finger_NoGreetingPrompt">
+		三招教你吸引大家的目光
+	</String>
+	<String id="Finger_GroupNum">
+	$COUNT$人
+	</String>
+	<String id="Finger_NewVersion_Tip">
+	查找联系人改头换面啦，找朋友，从来没有这样轻松！
+	</String>
+	<String id="Finger_Commend_Location">
+	$PROVINCE$  $CITY$
+	</String>
+	<String id="Finger_Mayknow_Offline">
+	你的QQ目前已处于离线状态，请登录后再查看“可能认识的人”。
+	</String>
+	<String id="Finger_Commend_TimeOut">
+	网络连接超时，请稍后重试。
+	</String>
+	<String id="Finger_Interest_Offline">
+	你的QQ目前已处于离线状态，请登录后再查看“有缘人”。
+	</String>
+  <String id="Finger_RecommendReason_MayHasFriend">
+    可能有共同好友
+  </String>
+  <String id="Finger_Greeting_RecommendReason_MayInterest">
+    路过宝地，发现你俩有惊人的相似之处！他向你挥手打了个招呼。
+  </String>
+  <String id="Finger_Greeting_RecommendReason_SearchResult">
+    在茫茫人海中，千挑万选找到了你，向你挥手打了个招呼。
+  </String>
+  <String id="Finger_Greeting_RecommendReason_LBS">
+    通过查看“附近的人”找到了你，挥挥手向你打了个招呼。
+  </String>
+  <String id="Finger_Greeting_RecommendReason_MayKnow">
+    惊讶的发现你俩有$FRIEND$个共同好友，$GROUP$个共同群，你们可能是认识的！
+  </String>
+  <String id="Finger_Greeting_RecommendReason_MayKnow_Friend">
+    惊讶的发现你俩有$FRIEND$个共同好友，你们可能是认识的！
+  </String>
+  <String id="Finger_Greeting_RecommendReason_MayKnow_Group">
+    惊讶的发现你俩有$GROUP$个共同群，你们可能是认识的！
+  </String>
+  <String id="Finger_Greet_Offline">
+    您目前处于离线状态，请登录后重试。
+  </String>
+  <String id="Finger_FriendSocialFriend">
+    你的朋友网好友
+  </String>
+  <String id="Finger_AddBuddy_SourceAndAppendInfo">
+    “打招呼”与您聊过,
+  </String>
+  <String id="Finger_DelMayKnow_Tip">
+    删除推荐后，此用户将不再作为可能认识的人推荐给您，同时系统也不会把您推荐给对方。您确定删除此推荐吗？
+  </String>
+  <String id="Finger_Interest_Tip">
+    茫茫人海中，与你有相似点的有缘人：
+  </String>
+  <String id="Finger_ConnectToServer_App">
+    你的QQ目前处于离线状态，请先登录再使用“查找”。
+  </String>
+  <String id="Finger_ConnectToServer_Title_App">
+    提示
+  </String>
+
+  <String id="IDS_FINGER_QUIT_CONFIRM">关闭后将退出巧遇卡，并关闭巧遇卡聊天窗口。是否关闭？</String>
+  <String id="IDS_NOTICE">提示</String>
+  <String id="IDS_MSGBOX_NEVER_REMIND">不再提示</String>
+  <String id="IDS_CLOSE">关闭</String>
+  <String id="IDS_Cancel">取消</String>
+  <String id="IDS_OK">确定</String>
+  <String id="IDS_QUIT">退出</String>
+  <String id="IDS_STRANGER_AIO_CLOSE_CONFIRM">关闭窗口后将断开与对方的会话。你确定断开会话吗？</String>
+  <String id="IDS_STRANGER_AIO_ADD_FRIEND_NOTIFY">哇，你们聊了好久，很投缘吧。关闭后将很难再碰到TA了，想加TA为好友，以后再联系吗？</String>
+  <String id="IDS_STRANGER_AIO_ADD_FRIEND">加为好友</String>
+  <String id="IDS_NEW_FREATURE_OF_FINGER">有新功能</String>
+  <String id="FingerStrangerAIO_ErrorText">页面出错啦！请检查网络状态是否正常并重试。</String>
+  <String id="IDS_BTN_RETRY">重试</String>
+  <String id="Finger_LBS_Btn1_Text">
+    清除地理位置
+  </String>
+  <String id="Finger_LBS_Btn2_Text">
+    取消
+  </String>
+  <String id="Finger_LBS_Content">
+    清除地理位置后，你将不会被他人找到，&#10;下次使用本功能时需重新共享地理位置。
+  </String>
+  <String id="Finger_LBS_Title_Text">
+    清除地理位置信息
+  </String>
+  
+  <!-- Added by handydeng for FriendCircle -->
+  <String id="Finger_FriendCircle_WantToFindOthers">想找到久违的熟人？</String>
+  <String id="Finger_FriendCircle_UseFriendCircle">使用圈子</String>
+</StringBundle>
+  
+

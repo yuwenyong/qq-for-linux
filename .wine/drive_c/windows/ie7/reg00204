@@ -1,0 +1,23 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{EAB22AC3-30C1-11CF-A7EB-0000C05BAE0B}
+
+#arch=win32
+
+[] 1328580334
+@="Microsoft Web Browser Version 1"
+
+[InprocServer32] 1328580336
+@="C:\\windows\\system32\\ieframe.dll"
+"ThreadingModel"="Apartment"
+
+[ProgId] 1328580334
+@="Shell.Explorer.1"
+
+[TypeLib] 1328580334
+@="{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}"
+
+[Version] 1328580334
+@="1.1"
+
+[VersionIndependentProgId] 1328580334
+@="Shell.Explorer"

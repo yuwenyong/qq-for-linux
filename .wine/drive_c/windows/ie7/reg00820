@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{D5F78C80-5252-11CF-90FA-00AA0042106E}
+
+#arch=win32
+
+[] 1328580335
+@="ITargetFrame"
+
+[NumMethods] 1328580335
+@="9"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

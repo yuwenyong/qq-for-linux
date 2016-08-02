@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{D2BC4C84-3F72-4A52-A604-7BCBF3982CBB}
+
+#arch=win32
+
+[] 1328580335
+@="INewWindowManager"
+
+[NumMethods] 1328580335
+@="4"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

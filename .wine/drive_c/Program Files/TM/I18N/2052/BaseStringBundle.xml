@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringBundle version="1.0">
+	<String id="Group_File_MoveFail">
+		移动文件夹到$PATH$失败
+	</String>
+	<String id="CF_OUT_Discuss">
+		普通讨论组
+	</String>
+	<String id="CF_PLEASE_ADDMEM_TIPS">
+		选择联系人为空，请选择需要的成员。
+	</String>
+	<String id="ContactFolderSys">
+		我的好友
+	</String>
+	<String id="ContactFolderUnknown">
+		未命名分组
+	</String>
+	<String id="GroupFolderSys">
+		我的QQ群
+	</String>
+	<String id="CUSTOMFACE_DEFAULT_GOURPNAME">
+		经典
+	</String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_GOURPNAME">
+    推荐表情
+  </String><String id="CUSTOMFACE_SYSFACE_2">
+    生活
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_FIX">
+    _新
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_DOWNLOAD_TITLE">
+    下载提示
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_DOWNLOAD_SUCC">
+    已成功下载$Count$个表情
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_DOWNLOAD_FAILED">
+    非常抱歉，“$PackageName$”表情包下载失败，请重新下载
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_DOWNLOAD_SUCC_PART">
+    已成功下载$Count$个表情，有$ExistCount$个表情已存在
+  </String>
+  <String id="CUSTOMFACE_RECOMMENDED_FACE_DOWNLOAD_NOTHING">
+    本地已存在全部表情，无须下载
+  </String>
+  <String id="CustomFavoriteFaceGroup">
+    我的收藏
+  </String>
+	<String id="CUSTOMFACE_WARN_SAMESHORTCUT">
+		您已经有表情使用了快捷键"$SHORTCUT$"，是否撤销原有的快捷键？
+	</String>
+	<String id="Rich_DEF_FONT">
+		宋体
+	</String>
+	<String id="Rich_DEF_FONTSIZE">
+		9
+	</String>
+	<String id="GenderMale">
+		男
+	</String>
+	<String id="GenderFemale">
+		女
+	</String>
+	<String id="GenderUnknown">
+		－
+	</String>
+	<String id="Group_Connect_Server_Error">
+		连接群文件服务器失败
+	</String>
+	<String id="Group_Connected_Server_Error">
+		到群文件服务器的连接中断
+	</String>
+	<String id="Group_OldVersion_Tip"/>
+	<String id="Group_RequestSend_Error">
+		服务器拒绝申请发送图片文件
+	</String>
+	<!-- <String id="Group_SendMsg_Fail">
+		您刚才发送的消息:"$MSG$"没有发送成功。
+失败原因:%s
+	</String> -->
+	<String id="PROD_NAME_VER" fmt="true">
+		皮肤编辑器
+	</String>
+	<String id="SERVICENAME_PAIPAI">
+		拍拍
+	</String>
+	<String id="SERVICENAME_QZONE">
+		QZone
+	</String>
+	<String id="SYSMSG_SYSFACE">
+		[表情]
+	</String>
+	<String id="SYSMSG_IMAGE">
+		[图片]
+	</String>
+	<String id="TIP_VIEW">
+		查看
+	</String>
+	<String id="TIP_TITLE">
+		系统消息
+	</String>
+	<String id="TIP_BUTTON_TIP">
+		点击查看详情
+	</String>
+	<String id="Group_Group">
+		群
+	</String>
+	<String id="Group_Discuss">
+		讨论组
+	</String>
+	<String id="Group_Org">
+		群内组织
+	</String>
+	<String id="Group_RC">
+    对方取消了图片传送或网络错误，传输终止
+	</String>
+	<String id="Group_FileSend_NetError">
+    传输过程遇到网络错误，传输终止，你可以尝试重新发送该图片
+  </String>
+	<String id="Group_FileSend_OpenError">
+    打开要发送的图片时出错，传输终止，你可以尝试重新发送该图片
+	</String>
+	<String id="Group_FileRecv_RemoteStop">
+    对方终止图片传输
+	</String>
+	<String id="Group_FileRecv_NetError">
+    接收图片数据时网络出错，传输中断，你可以尝试让对方重新发送该图片
+	</String>
+	<String id="Group_FileRecv_WriteError">
+    写入文件出错，传输终止，可能磁盘不够空间或其他原因造成，你可以尝试让对方重新发送该图片
+	</String>
+	<String id="Group_FileRecv_Error">
+    接收图片失败，传输中断，你可以尝试让对方重新发送该图片
+  </String>
+	<String id="Group_FileRecv_OpenError">
+    打开要接收的图片时出错，传输终止，你可以让对方尝试重新发送该图片
+  </String>
+  <!-- Msg URL Tips Begin-->
+  <!--String id="GrayURL_Tips" fmt="true">
+    为了您的$__PNAME$安全，请只打开来源可靠的网址。
+  </String-->
+  <String id="GrayURL_Tips" fmt="true">
+    该网址可能存在风险，请只打开来源可靠的网址。
+  </String>
+	<String id="BlackURL_Tips">
+    此网址可能含有恶意内容，建议您不要访问，以免造成损失。
+  </String>
+	<String id="TencentWhiteURL_Tips">
+		此网址为腾讯公司官方网站，欢迎访问。
+	</String>
+	<String id="NonTencentWhiteURL_Tips">
+		此网站为QQ信任的网站，在大多数情况下，访问不会带来风险。
+	</String>
+	<String id="GrayURL_WarningMsgOfReceiver">
+		警告：对方本次发送的消息中包含的网址被用户举报或存在较高安全风险，已经被QQ安全中心阻止。
+	</String>
+	<String id="GrayURL_WarningMsgOfSender">
+		警告：此消息中包含的网址被QQ用户举报或存在较高安全风险，已经被QQ安全中心阻止。对方无法收到您本次发送的消息。
+	</String>
+	<!-- Msg URL Tips End-->
+
+  <String id="UserDataDefaultSavePath_Vista">
+    我的文档
+  </String>
+  
+  <String id="UserDataDefaultSavePath_XP">
+    安装包目录
+  </String>
+
+  <String id="CF_Group_Image_TooLarge">
+		图片像素尺寸超过限制，不能发送
+	</String>
+	<String id="CF_Group_Image_TooBig">
+		图片文件大小超过限制，不能发送
+	</String>
+	<String id="CF_Group_Image_TooManyCustomFace">
+		自定义表情数目太多，不能发送
+	</String>
+	<String id="CF_Group_Image_TooManyImage">
+		每条消息最多包含3张图片，多张图片请分条发送。
+	</String>
+
+	<String id="MSGFILE_IN_SHARE">
+		暂时无法登录，请稍后重试。
+	</String>
+  
+  <String id="USERDATAFILE_IS_USED">
+	    由于文件读取繁忙，暂时无法完成登录，请稍后再试。
+  </String>
+
+  <String id="DISK_FULL">
+    登录失败，可能是因为磁盘空间不足，请清理磁盘后重试。如果仍然无法解决此问题，请重启您的电脑再尝试登录。
+  </String>
+  
+  <String id="FOLDER_ACCESSDENIED">
+    个人文件夹没有读写权限,请修改相应权限后再尝试。
+  </String>
+
+  <String id="LOGINFAIL_1">
+		网络连接失败，请稍后再试。
+	</String>
+	<String id="LOGINFAIL_2">
+		服务器拒绝
+	</String>
+	<String id="LOGINFAIL_2_1">
+		请您重新输入密码
+	</String>
+	<String id="LOGINFAIL_3">
+		您目前使用的版本过期
+	</String>
+	<String id="LOGINFAIL_4">
+		服务器正在维护
+	</String>
+	<String id="LOGINFAIL_5">
+		服务器繁忙
+	</String>
+	<String id="LOGINFAIL_6">
+		发生未知错误
+	</String>
+	<String id="LOGINFAIL_7">
+		发生未知错误
+	</String>
+	<String id="LOGINFAIL_8">
+		发生未知错误
+	</String>
+	<String id="LOGINFAIL_14">
+		验证超时，请您重新验证。
+	</String>
+
+  <String id="AUTOREPLYMSG">
+    [自动回复]
+  </String>
+
+	<String id="FACE_TOOL_TIP0">
+		微笑
+	</String>
+	<String id="FACE_TOOL_TIP1">
+		撇嘴
+	</String>
+	<String id="FACE_TOOL_TIP2">
+		色
+	</String>
+	<String id="FACE_TOOL_TIP3">
+		发呆
+	</String>
+	<String id="FACE_TOOL_TIP4">
+		得意
+	</String>
+	<String id="FACE_TOOL_TIP5">
+		流泪
+	</String>
+	<String id="FACE_TOOL_TIP6">
+		害羞
+	</String>
+	<String id="FACE_TOOL_TIP7">
+		闭嘴
+	</String>
+	<String id="FACE_TOOL_TIP8">
+		睡
+	</String>
+	<String id="FACE_TOOL_TIP9">
+		大哭
+	</String>
+	<String id="FACE_TOOL_TIP10">
+		尴尬
+	</String>
+	<String id="FACE_TOOL_TIP11">
+		发怒
+	</String>
+	<String id="FACE_TOOL_TIP12">
+		调皮
+	</String>
+	<String id="FACE_TOOL_TIP13">
+		呲牙
+	</String>
+	<String id="FACE_TOOL_TIP14">
+		惊讶
+	</String>
+	<String id="FACE_TOOL_TIP15">
+		难过
+	</String>
+	<String id="FACE_TOOL_TIP16">
+		酷
+	</String>
+	<String id="FACE_TOOL_TIP17">
+		冷汗
+	</String>
+	<String id="FACE_TOOL_TIP18">
+		抓狂
+	</String>
+	<String id="FACE_TOOL_TIP19">
+		吐
+	</String>
+	<String id="FACE_TOOL_TIP20">
+		偷笑
+	</String>
+	<String id="FACE_TOOL_TIP21">
+		可爱
+	</String>
+	<String id="FACE_TOOL_TIP22">
+		白眼
+	</String>
+	<String id="FACE_TOOL_TIP23">
+		傲慢
+	</String>
+	<String id="FACE_TOOL_TIP24">
+		饥饿
+	</String>
+	<String id="FACE_TOOL_TIP25">
+		困
+	</String>
+	<String id="FACE_TOOL_TIP26">
+		惊恐
+	</String>
+	<String id="FACE_TOOL_TIP27">
+		流汗
+	</String>
+	<String id="FACE_TOOL_TIP28">
+		憨笑
+	</String>
+	<String id="FACE_TOOL_TIP29">
+		大兵
+	</String>
+	<String id="FACE_TOOL_TIP30">
+		奋斗
+	</String>
+	<String id="FACE_TOOL_TIP31">
+		咒骂
+	</String>
+	<String id="FACE_TOOL_TIP32">
+		疑问
+	</String>
+	<String id="FACE_TOOL_TIP33">
+		嘘...
+	</String>
+	<String id="FACE_TOOL_TIP34">
+		晕
+	</String>
+	<String id="FACE_TOOL_TIP35">
+		折磨
+	</String>
+	<String id="FACE_TOOL_TIP36">
+		衰
+	</String>
+	<String id="FACE_TOOL_TIP37">
+		骷髅
+	</String>
+	<String id="FACE_TOOL_TIP38">
+		敲打
+	</String>
+	<String id="FACE_TOOL_TIP39">
+		再见
+	</String>
+	<String id="FACE_TOOL_TIP40">
+		擦汗
+	</String>
+	<String id="FACE_TOOL_TIP41">
+		抠鼻
+	</String>
+	<String id="FACE_TOOL_TIP42">
+		鼓掌
+	</String>
+	<String id="FACE_TOOL_TIP43">
+		糗大了
+	</String>
+	<String id="FACE_TOOL_TIP44">
+		坏笑
+	</String>
+	<String id="FACE_TOOL_TIP45">
+		左哼哼
+	</String>
+	<String id="FACE_TOOL_TIP46">
+		右哼哼
+	</String>
+	<String id="FACE_TOOL_TIP47">
+		哈欠
+	</String>
+	<String id="FACE_TOOL_TIP48">
+		鄙视
+	</String>
+	<String id="FACE_TOOL_TIP49">
+		委屈
+	</String>
+	<String id="FACE_TOOL_TIP50">
+		快哭了
+	</String>
+	<String id="FACE_TOOL_TIP51">
+		阴险
+	</String>
+	<String id="FACE_TOOL_TIP52">
+		亲亲
+	</String>
+	<String id="FACE_TOOL_TIP53">
+		吓
+	</String>
+	<String id="FACE_TOOL_TIP54">
+		可怜
+	</String>
+	<String id="FACE_TOOL_TIP55">
+		菜刀
+	</String>
+	<String id="FACE_TOOL_TIP56">
+		西瓜
+	</String>
+	<String id="FACE_TOOL_TIP57">
+		啤酒
+	</String>
+	<String id="FACE_TOOL_TIP58">
+		篮球
+	</String>
+	<String id="FACE_TOOL_TIP59">
+		乒乓
+	</String>
+	<String id="FACE_TOOL_TIP60">
+		咖啡
+	</String>
+	<String id="FACE_TOOL_TIP61">
+		饭
+	</String>
+	<String id="FACE_TOOL_TIP62">
+		猪头
+	</String>
+	<String id="FACE_TOOL_TIP63">
+		玫瑰
+	</String>
+	<String id="FACE_TOOL_TIP64">
+		凋谢
+	</String>
+	<String id="FACE_TOOL_TIP65">
+		示爱
+	</String>
+	<String id="FACE_TOOL_TIP66">
+		爱心
+	</String>
+	<String id="FACE_TOOL_TIP67">
+		心碎
+	</String>
+	<String id="FACE_TOOL_TIP68">
+		蛋糕
+	</String>
+	<String id="FACE_TOOL_TIP69">
+		闪电
+	</String>
+	<String id="FACE_TOOL_TIP70">
+		炸弹
+	</String>
+	<String id="FACE_TOOL_TIP71">
+		刀
+	</String>
+	<String id="FACE_TOOL_TIP72">
+		足球
+	</String>
+	<String id="FACE_TOOL_TIP73">
+		瓢虫
+	</String>
+	<String id="FACE_TOOL_TIP74">
+		便便
+	</String>
+	<String id="FACE_TOOL_TIP75">
+		月亮
+	</String>
+	<String id="FACE_TOOL_TIP76">
+		太阳
+	</String>
+	<String id="FACE_TOOL_TIP77">
+		礼物
+	</String>
+	<String id="FACE_TOOL_TIP78">
+		拥抱
+	</String>
+	<String id="FACE_TOOL_TIP79">
+		强
+	</String>
+	<String id="FACE_TOOL_TIP80">
+		弱
+	</String>
+	<String id="FACE_TOOL_TIP81">
+		握手
+	</String>
+	<String id="FACE_TOOL_TIP82">
+		胜利
+	</String>
+	<String id="FACE_TOOL_TIP83">
+		抱拳
+	</String>
+	<String id="FACE_TOOL_TIP84">
+		勾引
+	</String>
+	<String id="FACE_TOOL_TIP85">
+		拳头
+	</String>
+	<String id="FACE_TOOL_TIP86">
+		差劲
+	</String>
+	<String id="FACE_TOOL_TIP87">
+		爱你
+	</String>
+	<String id="FACE_TOOL_TIP88">
+		NO
+	</String>
+	<String id="FACE_TOOL_TIP89">
+		OK
+	</String>
+	<String id="FACE_TOOL_TIP90">
+		爱情
+	</String>
+	<String id="FACE_TOOL_TIP91">
+		飞吻
+	</String>
+	<String id="FACE_TOOL_TIP92">
+		跳跳
+	</String>
+	<String id="FACE_TOOL_TIP93">
+		发抖
+	</String>
+	<String id="FACE_TOOL_TIP94">
+		怄火
+	</String>
+	<String id="FACE_TOOL_TIP95">
+		转圈
+	</String>
+	<String id="FACE_TOOL_TIP96">
+		磕头
+	</String>
+	<String id="FACE_TOOL_TIP97">
+		回头
+	</String>
+	<String id="FACE_TOOL_TIP98">
+		跳绳
+	</String>
+	<String id="FACE_TOOL_TIP99">
+		挥手
+	</String>
+	<String id="FACE_TOOL_TIP100">
+		激动
+	</String>
+	<String id="FACE_TOOL_TIP101">
+		街舞
+	</String>
+	<String id="FACE_TOOL_TIP102">
+		献吻
+	</String>
+	<String id="FACE_TOOL_TIP103">
+		左太极
+	</String>
+	<String id="FACE_TOOL_TIP104">
+		右太极
+	</String>
+	<String id="FACE_TOOL_TIP105">
+		非典
+	</String>
+	<String id="FACE_TOOL_TIP106">
+		闪人
+	</String>
+	<String id="FACE_TOOL_TIP107">
+		找
+	</String>
+	<String id="FACE_TOOL_TIP108">
+		美眉
+	</String>
+	<String id="FACE_TOOL_TIP109">
+		猫咪
+	</String>
+	<String id="FACE_TOOL_TIP110">
+		小狗
+	</String>
+	<String id="FACE_TOOL_TIP111">
+		钱
+	</String>
+	<String id="FACE_TOOL_TIP112">
+		灯泡
+	</String>
+	<String id="FACE_TOOL_TIP113">
+		酒杯
+	</String>
+	<String id="FACE_TOOL_TIP114">
+		音乐
+	</String>
+	<String id="FACE_TOOL_TIP115">
+		药丸
+	</String>
+	<String id="FACE_TOOL_TIP116">
+		吻
+	</String>
+	<String id="FACE_TOOL_TIP117">
+		会议
+	</String>
+	<String id="FACE_TOOL_TIP118">
+		电话
+	</String>
+	<String id="FACE_TOOL_TIP119">
+		时间
+	</String>
+	<String id="FACE_TOOL_TIP120">
+		邮件
+	</String>
+	<String id="FACE_TOOL_TIP121">
+		电视
+	</String>
+	<String id="FACE_TOOL_TIP122">
+		多多
+	</String>
+	<String id="FACE_TOOL_TIP123">
+		美女
+	</String>
+	<String id="FACE_TOOL_TIP124">
+		汉良
+	</String>
+	<String id="FACE_TOOL_TIP125">
+		毛毛
+	</String>
+	<String id="FACE_TOOL_TIP126">
+		Q仔
+	</String>
+	<String id="FACE_TOOL_TIP127">
+		白酒
+	</String>
+	<String id="FACE_TOOL_TIP128">
+		汽水
+	</String>
+	<String id="FACE_TOOL_TIP129">
+		下雨
+	</String>
+	<String id="FACE_TOOL_TIP130">
+		多云
+	</String>
+	<String id="FACE_TOOL_TIP131">
+		雪人
+	</String>
+	<String id="FACE_TOOL_TIP132">
+		星星
+	</String>
+	<String id="FACE_TOOL_TIP133">
+		女
+	</String>
+	<String id="FACE_TOOL_TIP134">
+		男
+	</String>
+  <!--Operation Face Tips-->
+  <String id="OP_V5">
+    V5
+  </String>
+  <String id="OP_GL">
+    给力
+  </String>
+  <String id="OP_QIN">
+    亲
+  </String>
+  <String id="OP_HZ">
+    Hold住
+  </String>
+  <String id="OP_SBQ">
+    伤不起
+  </String>
+  <String id="OP_YMY">
+    有木有
+  </String>
+  <String id="OP_KD">
+    坑爹
+  </String>
+  <String id="OP_DJY">
+    打酱油
+  </String>
+  <String id="OP_NDD">
+    你懂得
+  </String>
+  <String id="OP_MS">
+    秒杀
+  </String>
+  <String id="OP_WG">
+    围观
+  </String>
+  <String id="OP_BJ">
+    杯具
+  </String>
+  <String id="OP_DZ">
+    顶住
+  </String>
+  <String id="OP_GUN">
+    滚
+  </String>
+  <!-- bug report -->
+  <String id="BR_APP_TITLE">
+    错误报告
+  </String>
+  <String id="BR_INVALIDCMDLINE">
+    参数不对
+  </String>
+  <String id="BR_DETAIL_SHOW">
+    &lt;&lt;错误信息(&amp;D)
+  </String>
+  <String id="BR_DETAIL_HIDE">
+    &gt;&gt;错误信息(&amp;D)
+  </String>
+  <String id="BR_FAIL_EXIT">
+    BugReport-失败
+  </String>
+  <String id="BR_SEND_FAIL">
+    发送错误报告失败。
+  </String>
+  <String id="BR_TIP">
+    $AppCallName$遇到未知错误，给您带来不便深表歉意。我们已经产生了一个关于此错误的报告（报告中不包含任何用户隐私信息），我们希望您选择发送此报告给我们以帮助改善$AppCallName$的质量。
+  </String>
+  <String id="BR_HELP">
+    我愿意协助$AppCallName$解决此问题(&amp;A)
+  </String>
+  <String id="BR_CONTACT1">
+    请输入电话号码/email等
+  </String>
+  <String id="BR_SEND">
+    发送错误报告(&amp;S)
+  </String>
+  <String id="BR_RESTART">
+    重启程序(&amp;R)
+  </String>
+  <String id="BR_ASSIST">
+    我愿意协助$AppCallName$解决此问题(&amp;A)
+  </String>
+  <String id="BR_QQACOUNT">
+    QQ帐号:
+  </String>
+  <String id="BR_CONTACT2">
+    联系方式:
+  </String>
+  <String id="BR_REASON">
+    这个问题是如何出现的？
+  </String>
+  <String id="BR_OK">
+    确定(&amp;O)
+  </String>
+  <String id="BR_ERRINFO">
+    错误信息:
+  </String>
+  <String id="BR_CRASH_SIGNATURE">
+    错误号：
+  </String>
+  <String id="BR_UPDATE_FOR_BUG">
+    检测到当前问题已经在最新版$AppCallName$中修复，是否立刻升级到最版本？
+  </String>
+  <String id="BR_CTDOWNLOAD_FOR_BUG">
+    为更好的为您提供服务，建议您下载安装$AppCallName$错误检测工具，帮助您修复$AppCallName$功能。
+
+是否现在下载$AppCallName$错误检测工具？
+  </String>
+  <String id="BR_INPUTACCOUNT">
+    请输入您的QQ帐号
+  </String>
+  <String id="BR_YES">
+    是(&amp;Y)
+  </String>
+  <String id="BR_NO">
+    否(&amp;N)
+  </String>
+  <String id="BR_DMPING">
+    $AppCallName$遇到问题退出，正在为您生成错误报告，请稍候...
+  </String>
+  <String id="BR_UPDATE_TITLE">
+    立即修复
+  </String>
+  <!-- bug report -->
+
+   
+    <String id="IDS_QQSKIN">              QQ皮肤    </String>
+    <String id="IDS_UNINSTALL_SKIN">     安装皮肤到QQ目录下，是否继续?	</String>   
+    <String id="IDS_UNDLANDINSTALL_SCENE">下载并安装场景到QQ目录下，是否继续?	</String>   
+    <String id="IDS_UNDLANDINSTALL_FACE"> 下载并安装自定义表情到QQ目录下，是否继续?	</String>   
+    <String id="IDS_ForHummerTip">        此号码所登录的QQ版本不支持一键登录，请选用普通登录模式。</String>
+    <String id="IDS_NORMALERROR_TIP">     调用相关功能失败!</String>    
+    <String id="IDS_UIPGETHASHERROR">     获得主题包ID错误</String>
+    <String id="IDS_UIPHASHERROR">        主题包ID验证失败，请使用腾讯公司提供的主题包</String>
+    <String id="IDS_UIPVERERROR">         当前的QQ号码对应的QQ版本较低，目前还不支持主题包功能</String>
+    <String id="IDS_LFUINUSE_QQTIP">      使用该功能必需使用QQ号码%d，您现在要启动该号码吗?</String>
+    <String id="IDS_LFUINUSE_TMTIP">      使用该功能必需使用TM号码%d，您现在要启动该号码吗?</String>
+    <String id="IDS_IMAGE_NOTFOUND" fmt="true">      $__PNAME$表情添加失败！</String>
+    <String id="IDS_EXCEPTION">           您没有启动QQ或者正在使用旧版本的QQ,请确认!</String>
+    <!--String id="IDS_UNSUPPORT">           您所使用的QQ版本不支持此功能或者您尚未打开网络硬盘。</String-->   
+    <String id="IDS_PUBLICKEY">           000000016322D2BAE69F339AABB9DB1621DCDB3B5E10E3A8</String>    
+	  <String id="IDS_SEND_CUSTOM_EMOTION_NONE_SOURCE">  表情复制成功，您可以粘贴发送给您的好友。</String>
+    <String id="IDS_CUSTOM_EMOTION_SOURCE_SOSO"> SoSo </String>
+   <!-- addrbook -->
+    <String id="IDS_ADDRB00K_ERR">           设置失败，请稍后再试。       </String>
+    <String id="GROUP_INVITE_SET_ERROR">本群已关闭普通群成员邀请好友权限</String>
+ 
+ 
+</StringBundle>

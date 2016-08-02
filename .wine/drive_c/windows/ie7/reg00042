@@ -1,0 +1,25 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{3050F3D9-98B5-11CF-BB82-00AA00BDCE0B}
+
+#arch=win32
+
+[] 1328580337
+@="MHTML Document"
+
+[BrowseInPlace] 1328580338
+
+[DefaultIcon] 1328580338
+@=str(2):"C:\\Program Files\\Internet Explorer\\iexplore.exe,1"
+
+[InprocServer32] 1328580337
+@="C:\\windows\\system32\\mshtml.dll"
+"ThreadingModel"="Apartment"
+
+[MiscStatus] 1328580338
+@="2228625"
+
+[ProgId] 1328580337
+@="mhtmlfile"
+
+[Version] 1328580337
+@="6.0"

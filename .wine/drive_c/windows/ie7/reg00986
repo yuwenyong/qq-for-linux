@@ -1,0 +1,7 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Microsoft\\Internet Explorer\\ActiveX Compatibility
+
+#arch=win32
+
+[] 1328580338
+"Version"="6.17"

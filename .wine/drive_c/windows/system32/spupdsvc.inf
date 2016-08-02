@@ -1,0 +1,12 @@
+[Version]
+Signature="$Windows NT$"
+
+[ProcessesToRunAfterReboot]
+C:\windows\system32\reg.exe ADD """HKLM\Software\Clients\StartMenuInternet\IEXPLORE.EXE\DefaultIcon""" /ve /d """C:\Program Files\Internet Explorer\iexplore.exe,-7""" /f
+C:\windows\system32\reg.exe DELETE """HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components""" /v """NoIE4StubProcessing""" /f
+C:\windows\system32\reg.exe DELETE """HKLM\SOFTWARE\Microsoft\Internet Explorer\Setup""" /v """IEPendingReboot""" /f
+C:\windows\system32\reg.exe DELETE """HKLM\SOFTWARE\Microsoft\Internet Explorer\Setup""" /v """InstallStarted""" /f
+C:\windows\system32\regsvr32.exe /s """C:\Program Files\Internet Explorer\ieproxy.dll"""
+C:\windows\system32\regsvr32.exe /s /i /n C:\windows\system32\ieframe.dll
+C:\windows\system32\regsvr32.exe /s C:\windows\system32\actxprxy.dll
+[ProcessesToRunAfterReboot.IP]

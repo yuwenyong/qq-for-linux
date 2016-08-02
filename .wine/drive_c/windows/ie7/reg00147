@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{8F6B0360-B80D-11D0-A9B3-006097942311}
+
+#arch=win32
+
+[] 1328580336
+@="AP lzdhtml encoding/decoding Filter"
+
+[InprocServer32] 1328580336
+@="C:\\windows\\system32\\urlmon.dll"
+"ThreadingModel"="Apartment"

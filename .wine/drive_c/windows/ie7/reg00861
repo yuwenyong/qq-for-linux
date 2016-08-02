@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{FC4801A1-2BA9-11CF-A229-00AA003D7352}
+
+#arch=win32
+
+[] 1328580336
+@="IBindHost"
+
+[NumMethods] 1328580336
+@="6"
+
+[ProxyStubClsid32] 1328580336
+@="{79EAC9F1-BAF9-11CE-8C82-00AA004BA90B}"

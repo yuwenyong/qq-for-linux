@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{F164EDF1-CC7C-4F0D-9A94-34222625C393}
+
+#arch=win32
+
+[] 1328580336
+@="IInternetSecurityManagerEx"
+
+[NumMethods] 1328580336
+@="12"
+
+[ProxyStubClsid32] 1328580336
+@="{79EAC9F1-BAF9-11CE-8C82-00AA004BA90B}"

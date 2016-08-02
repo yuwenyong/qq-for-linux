@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StringBundle version="1.0">
+	<String id="ERROR">
+		错误
+	</String>
+	<String id="ContactFolderSys">
+		我的联系人
+	</String>
+	<String id="DEF_FONT">
+		宋体
+	</String>
+	<String id="DEF_FONTSIZE">
+		9
+	</String>
+  <String id="FONT_SimSun">
+    宋体
+  </String>
+  <String id="FONT_Yahei">
+    微软雅黑
+  </String>
+  <String id="PROD_NAME_VER" fmt="true">
+		$__PNAME_V$
+	</String>
+	<String id="PROD_NAME_VER_SUBVER" fmt="true">
+		$__PNAME_V_SV$
+	</String>
+	<String id="NoCase">
+		以下字符不区分大小写
+	</String>
+	<String id="ValidCode">
+		验证码:
+	</String>
+	<String id="Cancel">
+		取消
+	</String>
+	<String id="Ok">
+		确定
+	</String>
+	<String id="Apply">
+		应用
+	</String>
+	<String id="PLEASE_NOTICE">
+		请注意
+	</String>
+	<String id="Send">
+		发送
+	</String>
+	<String id="ValidateCodeNull">
+		验证码不能为空
+	</String>
+	<String id="ValidateCodeError">
+		验证码错误
+	</String>
+	<String id="UnkownConnectError">
+		未知网络错误
+	</String>
+	<String id="TitlePrompt">
+		提示
+	</String>
+</StringBundle>

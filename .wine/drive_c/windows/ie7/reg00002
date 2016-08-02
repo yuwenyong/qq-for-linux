@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{0002DF01-0000-0000-C000-000000000046}
+
+#arch=win32
+
+[] 1328583171
+@="Internet Explorer(Ver 1.0)"
+
+[TypeLib] 1328580334
+@="{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}"
+
+[Version] 1328580334
+@="1.1"

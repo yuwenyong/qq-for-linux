@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{000214F2-0000-0000-C000-000000000046}
+
+#arch=win32
+
+[] 1328580335
+@="IEnumIDList"
+
+[NumMethods] 1328580335
+@="7"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

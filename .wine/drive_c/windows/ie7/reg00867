@@ -1,0 +1,7 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\MIME\\Database\\Content Type\\image/xbm
+
+#arch=win32
+
+[] 1328580338
+"Extension"=".xbm"

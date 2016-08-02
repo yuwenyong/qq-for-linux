@@ -1,0 +1,13 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\Interface\\{CDE725B0-CCC9-4519-917E-325D72FAB4CE}
+
+#arch=win32
+
+[] 1328580335
+@="IFolderView"
+
+[NumMethods] 1328580335
+@="17"
+
+[ProxyStubClsid32] 1328580335
+@="{B8DA6310-E19B-11D0-933C-00A0C90DCAA9}"

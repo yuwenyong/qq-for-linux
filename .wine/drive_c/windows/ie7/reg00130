@@ -1,0 +1,11 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\Machine\\Software\\Classes\\CLSID\\{7B8A2D94-0AC9-11D1-896C-00C04FB6BFC4}
+
+#arch=win32
+
+[] 1328580336
+@="Security Manager"
+
+[InprocServer32] 1328580336
+@="C:\\windows\\system32\\urlmon.dll"
+"ThreadingModel"="Both"
