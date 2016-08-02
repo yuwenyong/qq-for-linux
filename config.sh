@@ -5,10 +5,10 @@ if [ $? -ne 0 ];then
     echo "You have to install wine first!"
     exit 1
 fi
-rm -rf test/.wine
-rm -rf test/.local
-cp -ra .wine test/
-cp -ra .local test/
+rm -rf ~/.wine
+rm -rf ~/.local
+cp -ra .wine ~/
+cp -ra .local ~/
 echo "#!/bin/bash" > start_tm2013.sh
 echo "wine '${HOME}/.wine/drive_c/Program Files/TM/Bin/TM.exe'" >> start_tm2013.sh
 chmod a+x start_tm2013.sh
