@@ -3,5 +3,9 @@
 1. 安装wine,否则无法完成安装  
   
 二：安装步骤  
-1. ./config.sh
-2. sudo ./install.sh
+1. ./config.sh  
+2. sudo ./install.sh  
+
+三：启动QQ
+1. 正常会增加启动图标，ubuntu用户可以搜索TM2013,centos7用户在互联网那一栏找到启动图标，如果没有找到启动图标，可以在命令行键入start_tm2013.sh启动  
+2. 刚开始群组界面名字显示不完整，用一段时间就没有这个问题了  
